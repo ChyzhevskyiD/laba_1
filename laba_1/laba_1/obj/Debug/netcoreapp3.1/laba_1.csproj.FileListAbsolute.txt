@@ -1,0 +1,14 @@
+C:\Users\Dima\source\repos\laba_1\laba_1\bin\Debug\netcoreapp3.1\laba_1.exe
+C:\Users\Dima\source\repos\laba_1\laba_1\bin\Debug\netcoreapp3.1\laba_1.deps.json
+C:\Users\Dima\source\repos\laba_1\laba_1\bin\Debug\netcoreapp3.1\laba_1.runtimeconfig.json
+C:\Users\Dima\source\repos\laba_1\laba_1\bin\Debug\netcoreapp3.1\laba_1.runtimeconfig.dev.json
+C:\Users\Dima\source\repos\laba_1\laba_1\bin\Debug\netcoreapp3.1\laba_1.dll
+C:\Users\Dima\source\repos\laba_1\laba_1\bin\Debug\netcoreapp3.1\laba_1.pdb
+C:\Users\Dima\source\repos\laba_1\laba_1\obj\Debug\netcoreapp3.1\laba_1.csproj.AssemblyReference.cache
+C:\Users\Dima\source\repos\laba_1\laba_1\obj\Debug\netcoreapp3.1\laba_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\source\repos\laba_1\laba_1\obj\Debug\netcoreapp3.1\laba_1.AssemblyInfoInputs.cache
+C:\Users\Dima\source\repos\laba_1\laba_1\obj\Debug\netcoreapp3.1\laba_1.AssemblyInfo.cs
+C:\Users\Dima\source\repos\laba_1\laba_1\obj\Debug\netcoreapp3.1\laba_1.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\laba_1\laba_1\obj\Debug\netcoreapp3.1\laba_1.dll
+C:\Users\Dima\source\repos\laba_1\laba_1\obj\Debug\netcoreapp3.1\laba_1.pdb
+C:\Users\Dima\source\repos\laba_1\laba_1\obj\Debug\netcoreapp3.1\laba_1.genruntimeconfig.cache
